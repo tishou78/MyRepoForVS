@@ -1,0 +1,6 @@
+D:\VisualStudioProjects\IntroDemos\X_Problem\bin\Debug\X_Problem.exe.config
+D:\VisualStudioProjects\IntroDemos\X_Problem\bin\Debug\X_Problem.exe
+D:\VisualStudioProjects\IntroDemos\X_Problem\bin\Debug\X_Problem.pdb
+D:\VisualStudioProjects\IntroDemos\X_Problem\obj\Debug\X_Problem.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\IntroDemos\X_Problem\obj\Debug\X_Problem.exe
+D:\VisualStudioProjects\IntroDemos\X_Problem\obj\Debug\X_Problem.pdb

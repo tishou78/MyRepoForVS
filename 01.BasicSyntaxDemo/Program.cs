@@ -19,7 +19,7 @@ namespace _01.BasicSyntaxDemo
             //Console.WriteLine("Your salary? ");
             var salary = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Name: {0}!", name);
+            Console.WriteLine("Name: {0}", name);
             Console.WriteLine("Age: " + age);
             Console.WriteLine("Employee ID: {0:D8}", id);
             Console.WriteLine("Salary: {0:f2}", salary);
